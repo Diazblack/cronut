@@ -1,0 +1,3 @@
+class Topping < Batter
+
+end
